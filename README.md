@@ -1,3 +1,14 @@
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://chat-app-radser2001.netlify.app/">⭐️ Chat-App ⭐️</a><br>
+    </b>
+
+</h1>
+
+<p align="center"> <b>A Chat Application created using React.js and Chat Engine <br> </b> <p>
+  
+  <a href="https://chat-app-radser2001.netlify.app/"  align="center"> Live Site  </a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
